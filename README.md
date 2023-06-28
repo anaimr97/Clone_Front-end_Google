@@ -1,7 +1,7 @@
 <h1 align="center">Clone Front-end Google</h1>
 
 <h2> 📄 Description</h2>
-Front-end of the Google interface
+The project is the front-end of the Google interface. 
 
 
 
