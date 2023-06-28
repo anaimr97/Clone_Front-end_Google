@@ -1,4 +1,3 @@
-
 <h1 align="center">Clone Front-end Google</h1>
 
 <h2> 📄 Description</h2>
